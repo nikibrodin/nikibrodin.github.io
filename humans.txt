@@ -1,17 +1,16 @@
-
-/* TEAM */        
+/* TEAM */
+Role: Web programmer 
 Your title: Niki Brodin Larsson
+Contact: nikibrodin@gmail.com
 Location: Gothenburg, Sweden.
 
                         [...]
 
 /* THANKS */
-Name: name or url
+Name: Johan Leitet
                  
                         [...]
              
 /* SITE */
-Last update: YYYY/MM/DD
-Standards: HTML5, CSS3,..
-Components: Modernizr, jQuery, etc.   
-Software: Software used for the development
+Last update: 2017/11/09
+Software: Jekyll, Sass, Docker, etc. 
